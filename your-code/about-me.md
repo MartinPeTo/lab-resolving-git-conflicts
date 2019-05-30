@@ -12,3 +12,6 @@ In this course I expect to learn, especially, coding with Python, using database
 # What will I do after the bootcamp?
 
 That's the tricky question, on one hand I want to try to work as a data engineer but, on the other hand, I don't want to lay aside my current carreer as mechanical engineer. I guess that, along the course, I will discover my preferences or which possibilities do I have with my skills.
+
+
+CODE TO CREATE CONFLICT
